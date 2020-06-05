@@ -1,0 +1,5 @@
+opencv_world331.dll filter=lfs diff=lfs merge=lfs -text
+opencv_world331d.dll filter=lfs diff=lfs merge=lfs -text
+tesseract305.dll filter=lfs diff=lfs merge=lfs -text
+tesseract305d.dll filter=lfs diff=lfs merge=lfs -text
+leptonica-1.74.4.dll filter=lfs diff=lfs merge=lfs -text
